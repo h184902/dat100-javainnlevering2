@@ -18,9 +18,12 @@ public class Tabeller {
 	// b)
 	public static String tilStreng(int[] tabell) {
 
-		// TODO
-		throw new UnsupportedOperationException("Metoden tilStreng ikke implementert");
-	}
+		System.out.print("[");
+		
+		for (int i = 0; i < tabell.length; i++) {
+			
+		}
+		}
 
 	// c)
 	public static int summer(int[] tabell) {
